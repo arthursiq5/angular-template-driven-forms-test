@@ -5,3 +5,15 @@
 .ng-invalid:not(form)  {
   border-left: 5px solid #a94442; /* red */
 }
+
+.alert{
+    border: 1px dashed grey;
+    border-radius: 8px;
+    padding: 0.5em;
+    width: 12em;
+    text-align: center;
+}
+
+.alert-danger{
+    background-color: salmon;
+}
